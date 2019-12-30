@@ -11,7 +11,7 @@ Micro Controllers used:
 * [Wemos D1 mini](https://www.wemos.cc/en/latest/d1/d1_mini.html)
 
 ## Prerequisites
-All projects use [https://platformio.org/](Platform IO) which is an ecosystem for embedded development. It includes an IDE with Serial Port Monitor, a Framework/Library Registry and much more. 
+All projects use [Platform IO](https://platformio.org/) which is an ecosystem for embedded development. It includes an IDE with Serial Port Monitor, a Framework/Library Registry and much more. 
 
 In addition, a Platform IO supported micro controller (with WiFi support) is of course required.
 
