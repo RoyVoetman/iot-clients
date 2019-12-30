@@ -23,7 +23,7 @@ All the `src-*` folders contain code for a specific project. When flashing a pro
 * `default_envs` should be equal to the micro controller you want to flash the project into. <br> Possible options are: `nodemcuv2` for a NodeMCU and `d1_mini` for a Wemos d1-mini.
 
 ## Projects
-Every project is marked as `read-unit` or `updateble-units` for the definition of both terms, refer to the `iot-base` project.
+Every project is marked as `read-unit` or `updatable-units` for the definition of both terms, refer to the `iot-base` project.
 
 If applicable, a circuit diagram will be shown for a project (coming soon)
 
@@ -31,9 +31,9 @@ If applicable, a circuit diagram will be shown for a project (coming soon)
 A LDR04 light depended resistor is used to send the current light intensity at a set interval.
 > Read unit
 
-### src-updatble-led-lamp
+### src-updatable-led-lamp
 A LED strip that can change color based on the request being send. Supported requests: html5 color names / hex codes.
-> Updateble unit
+> Updatable unit
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
