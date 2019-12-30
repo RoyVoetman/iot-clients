@@ -6,9 +6,9 @@
 This repository contains all my Arduino projects that are compatible with the `iot-base`. In short the `iot-base` is a project that communicates with these Arduinos via wifi (on condition that they are connected to the same network).
 
 Micro Controllers used:
-* [https://store.arduino.cc/arduino-uno-rev3](Arduino Uno)
-* [https://docs.zerynth.com/latest/official/board.zerynth.nodemcu3/docs/index.html](NodeMCU v3)
-* [https://www.wemos.cc/en/latest/d1/d1_mini.html](Wemos D1 mini)
+* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3)
+* [NodeMCU v3](https://docs.zerynth.com/latest/official/board.zerynth.nodemcu3/docs/index.html)
+* [Wemos D1 mini](https://www.wemos.cc/en/latest/d1/d1_mini.html)
 
 ## Prerequisites
 All projects use [https://platformio.org/](Platform IO) which is an ecosystem for embedded development. It includes an IDE with Serial Port Monitor, a Framework/Library Registry and much more. 
