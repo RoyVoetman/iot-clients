@@ -6,7 +6,7 @@
 This repository contains all my Arduino projects that are compatible with the [iot-base](https://github.com/RoyVoetman/iot-base). In short the `iot-base` is a project that communicates with these Arduinos via wifi (on condition that they are connected to the same network).
 
 ## About this project
-This application is part of my **IOT dashboard suite**. For more information about what this suite of projects entails a reference is made to the [iot-base](https://github.com/RoyVoetman/iot-base) repo.
+This application is part of my **IOT dashboard suite**. For more information about what this suite of projects entails a reference is made to the [iot-base](https://github.com/RoyVoetman/iot-base/blob/master/IOT%20dashboard%20suite.md) repo.
 
 ## Prerequisites
 All projects use [Platform IO](https://platformio.org/) which is an ecosystem for embedded development. It includes an IDE with Serial Port Monitor, a Framework/Library Registry and much more. 
@@ -26,7 +26,7 @@ All the `src-*` folders contain code for a specific project. When flashing a pro
 * `default_envs` should be equal to the micro controller you want to flash the project into. <br> Possible options are: `nodemcuv2` for a NodeMCU and `d1_mini` for a Wemos d1-mini.
 
 ## Projects
-Every project is marked as `read-unit` or `updatable-units` for the definition of both terms a reference is made to the [iot-base](https://github.com/RoyVoetman/iot-base#read-unit-vs-updatable-unit) repo.
+Every project is marked as `read-unit` or `updatable-units` for the definition of both terms a reference is made to the [iot-base](https://github.com/RoyVoetman/iot-base/blob/master/IOT%20dashboard%20suite.md#read-unit-vs-updatable-unit) repo.
 
 If applicable, a circuit diagram will be shown for a project (coming soon)
 
