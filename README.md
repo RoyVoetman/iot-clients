@@ -26,7 +26,7 @@ All the `src-*` folders contain code for a specific project. When flashing a pro
 * `default_envs` should be equal to the micro controller you want to flash the project into. <br> Possible options are: `nodemcuv2` for a NodeMCU and `d1_mini` for a Wemos d1-mini.
 
 ## Projects
-Every project is marked as `read-unit` or `updatable-units` for the definition of both terms a reference is made to the [iot-base](https://github.com/RoyVoetman/iot-base) repo.
+Every project is marked as `read-unit` or `updatable-units` for the definition of both terms a reference is made to the [iot-base](https://github.com/RoyVoetman/iot-base#read-unit-vs-updatable-unit) repo.
 
 If applicable, a circuit diagram will be shown for a project (coming soon)
 
