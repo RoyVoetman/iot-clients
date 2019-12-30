@@ -40,3 +40,6 @@ A LED strip that can change color based on the request being send. Supported req
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
+
+## Authors
+* [Roy Voetman](https://www.royvoetman.nl)
