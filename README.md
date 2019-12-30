@@ -20,7 +20,7 @@ All the `src-*` folders contain code for a specific project. When flashing a pro
 
 * `src_dir` should be equal to `src-*` folder that should be flashed.
 
-* `default_envs` should be equal to the micro controller you want to flash the project into. Possible options are: `nodemcuv2` for a NodeMCU and `d1_mini` for a Wemos d1-mini.
+* `default_envs` should be equal to the micro controller you want to flash the project into. <br> Possible options are: `nodemcuv2` for a NodeMCU and `d1_mini` for a Wemos d1-mini.
 
 ## Projects
 Every project is marked as `read-unit` or `updateble-units` for the definition of both terms, refer to the `iot-base` project.
