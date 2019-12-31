@@ -32,11 +32,11 @@ If applicable, a circuit diagram will be shown for a project (coming soon)
 
 ### src-light-sensor
 A LDR04 light depended resistor is used to send the current light intensity at a set interval.
-> Read unit
+<br>_**Read unit**_
 
 ### src-updatable-led-lamp
 A LED strip that can change color based on the request being send. Supported requests: html5 color names / hex codes.
-> Updatable unit
+<br>_**Updatable unit**_
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
