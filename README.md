@@ -34,9 +34,13 @@ If applicable, a circuit diagram will be provided
 A LDR04 light depended resistor is used to send the current light intensity at a set interval.
 <br>_**Read unit**_
 
+![](https://www.royvoetman.nl/iot/src-light-sensor.jpg)
+
 ### src-updatable-led-lamp
 A LED strip that can change color based on the request being send. Supported requests: html5 color names / hex codes.
 <br>_**Updatable unit**_
+
+![](https://www.royvoetman.nl/iot/src-updatable-led-lamp.jpg)
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
