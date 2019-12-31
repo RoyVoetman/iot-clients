@@ -6,7 +6,7 @@
 This repository contains all my Arduino projects that are compatible with the [iot-base](https://github.com/RoyVoetman/iot-base). In short the `iot-base` is a project that communicates with these Arduinos via wifi (on condition that they are connected to the same network).
 
 ## About this project
-This application is part of my **IOT dashboard suite**. For more information about what this suite of projects entails a reference is made to the [iot-base](https://github.com/RoyVoetman/iot-base/blob/master/IOT%20dashboard%20suite.md) repo.
+This application is part of my **IOT dashboard suite**. For more information about what this suite of projects entails a reference is made to [IOT dashboard suite](https://github.com/RoyVoetman/iot-base/blob/master/docs/IOT%20dashboard%20suite.md).
 
 ## Prerequisites
 All projects use [Platform IO](https://platformio.org/) which is an ecosystem for embedded development. It includes an IDE with Serial Port Monitor, a Framework/Library Registry and much more. 
