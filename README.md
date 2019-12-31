@@ -28,7 +28,7 @@ All the `src-*` folders contain code for a specific project. When flashing a pro
 ## Projects
 Every project is marked as `read-unit` or `updatable-units` for the definition of both terms a reference is made to the [iot-base](https://github.com/RoyVoetman/iot-base/blob/master/docs/IOT%20dashboard%20suite.md#read-unit-vs-updatable-unit) docs.
 
-If applicable, a circuit diagram will be shown for a project (coming soon)
+If applicable, a circuit diagram will be provided
 
 ### src-light-sensor
 A LDR04 light depended resistor is used to send the current light intensity at a set interval.
