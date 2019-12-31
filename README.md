@@ -14,7 +14,6 @@ All projects use [Platform IO](https://platformio.org/) which is an ecosystem fo
 In addition, a Platform IO supported micro controller (with WiFi support) is of course required.
 
 Micro controllers I have used:
-* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3)
 * [NodeMCU v3](https://docs.zerynth.com/latest/official/board.zerynth.nodemcu3/docs/index.html)
 * [Wemos D1 mini](https://www.wemos.cc/en/latest/d1/d1_mini.html)
 
